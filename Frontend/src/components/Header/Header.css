@@ -1,0 +1,50 @@
+.header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding-inline: 1.5rem;
+    padding-block: 0.2rem;
+    background-color: white;
+  }
+  .logo {
+    width: 200px;
+  }
+
+  .container {
+    display: flex;
+    align-items: center;
+  }
+  
+  .contact-info span {
+    font-size: 18px;
+    color: #000;
+  }
+
+  .contact-info p {
+    font-size: 12px;
+    color: #808080;
+  }
+  
+  .logo-container {
+    display: flex;
+    align-items: center;
+  }
+  
+  .contact-info span {
+    display: block;
+    color: #666;
+    text-align: right;
+  }
+  
+  .contact-info span:first-child {
+    font-weight: bold;
+    color: #000;
+  }
+
+  .menu {
+    width: 1.5rem;
+  }
+  
+  .menu-icon {
+    cursor: pointer;
+  }

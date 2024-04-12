@@ -1,0 +1,13 @@
+{
+  "type": "you-key",
+  "project_id": "you-key",
+  "private_key_id": "you-key",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nyou-key\n-----END PRIVATE KEY-----\n",
+  "client_email": "you-key",
+  "client_id": "you-key",
+  "auth_uri": "you-key",
+  "token_uri": "you-key",
+  "auth_provider_x509_cert_url": "you-key",
+  "client_x509_cert_url": "you-key",
+  "universe_domain": "you-key"
+}
